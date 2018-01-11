@@ -1,11 +1,7 @@
 body {
-    background-color: red
-}
+  background-color: red; }
 
-.friend {
-    background-color: blue;
-}
-
-.friend h3 {
-    text-transform: uppercase;
-}
+#friend {
+  background-color: blue; }
+  #friend h3 {
+    text-transform: uppercase; }
